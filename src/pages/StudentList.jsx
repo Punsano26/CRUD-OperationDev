@@ -37,13 +37,13 @@ const StudentList = () => {
         </div>
         <div className="card-body">
           <div className="divbtn">
-            <link to="/student/create" className="btn btn-success">
+            <Link to="/student/create" className="btn btn-success">
               Add New (+)
-            </link>
+            </Link>
           </div>
           <br />
           
-          <table className="table-bordered"></table>
+          <table className="table table-bordered">
             <thead className="bg-dark text-white">
               <tr>
                 <td>Id</td>
@@ -70,7 +70,11 @@ const StudentList = () => {
                       >
                         Edit
                       </a>
-                      <a className="btn btn-dager">Remove</a>
+                      <a className="btn btn-danger"
+                        onClick={() =>{
+                            removeStudent(item.id);
+                        }}
+                      >Remove</a>
                       <a
                         className="btn btn-primary"
                         onClick={() => {
@@ -83,7 +87,7 @@ const StudentList = () => {
                   </tr>
                 ))}
             </tbody>
-          </table-bordered>
+          </table>
         </div>
       </div>
     </div>
