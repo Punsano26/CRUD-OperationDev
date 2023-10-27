@@ -41,8 +41,9 @@ const StudentList = () => {
               Add New (+)
             </link>
           </div>
-          table.table{" "}
-          <table-bordered>
+          <br />
+          
+          <table className="table-bordered"></table>
             <thead className="bg-dark text-white">
               <tr>
                 <td>Id</td>
