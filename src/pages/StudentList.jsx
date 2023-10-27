@@ -42,7 +42,7 @@ const StudentList = () => {
             </Link>
           </div>
           <br />
-          
+
           <table className="table table-bordered">
             <thead className="bg-dark text-white">
               <tr>
@@ -70,11 +70,14 @@ const StudentList = () => {
                       >
                         Edit
                       </a>
-                      <a className="btn btn-danger"
-                        onClick={() =>{
-                            removeStudent(item.id);
+                      <a
+                        className="btn btn-danger"
+                        onClick={() => {
+                          removeStudent(item.id);
                         }}
-                      >Remove</a>
+                      >
+                        Delete
+                      </a>
                       <a
                         className="btn btn-primary"
                         onClick={() => {
