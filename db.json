@@ -1,0 +1,223 @@
+{
+    "student":[
+        {
+            "id":1,
+            "name":"Jhone Doe",
+            "email":"jhonedost@mail.com",
+            "phone":"0324556612",
+            "birthday":"1990-01-01",
+            "photo":"https://source.unsplash.com/random/200x200/?portrait",
+            "section":"65/45",
+            "major":"Software Engineering",
+            "admisstionYear":"2022"
+        },{
+  "id": 2,
+  "name": "Landon Miller",
+  "email": "landon@mail.com",
+  "phone": "0123456789",
+  "birthday": "1994-10-03",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "65/45",
+  "major": "Psychology",
+  "admissionYear": "2022"
+},
+{
+  "id": 3,
+  "name": "Aria Scott",
+  "email": "aria@mail.com",
+  "phone": "0987654321",
+  "birthday": "1995-06-18",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "67/45",
+  "major": "Sociology",
+  "admissionYear": "2021"
+},
+{
+  "id": 4,
+  "name": "Noah Hall",
+  "email": "noah@mail.com",
+  "phone": "1234567890",
+  "birthday": "1996-09-20",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "68/45",
+  "major": "History",
+  "admissionYear": "2023"
+},
+{
+  "id": 5,
+  "name": "Avery Wilson",
+  "email": "avery2@mail.com",
+  "phone": "9876543210",
+  "birthday": "1987-11-28",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "66/45",
+  "major": "Art",
+  "admissionYear": "2020"
+},
+{
+  "id": 6,
+  "name": "Elijah Turner",
+  "email": "elijah@mail.com",
+  "phone": "0123456789",
+  "birthday": "1988-04-15",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "65/45",
+  "major": "English Literature",
+  "admissionYear": "2022"
+},
+{
+  "id": 7,
+  "name": "Grace Davis",
+  "email": "grace@mail.com",
+  "phone": "0987654321",
+  "birthday": "1991-07-02",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "67/45",
+  "major": "Political Science",
+  "admissionYear": "2021"
+},
+{
+  "id": 8,
+  "name": "Logan Clark",
+  "email": "logan@mail.com",
+  "phone": "1234567890",
+  "birthday": "1992-05-12",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "68/45",
+  "major": "Economics",
+  "admissionYear": "2023"
+},
+{
+  "id": 9,
+  "name": "Aubrey Martinez",
+  "email": "aubrey@mail.com",
+  "phone": "9876543210",
+  "birthday": "1989-03-25",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "66/45",
+  "major": "Geology",
+  "admissionYear": "2020"
+},
+{
+  "id": 10,
+  "name": "Jackson Harris",
+  "email": "jackson@mail.com",
+  "phone": "0123456789",
+  "birthday": "1990-08-12",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "65/45",
+  "major": "Philosophy",
+  "admissionYear": "2022"
+},
+{
+  "id": 11,
+  "name": "Lily Baker",
+  "email": "lily@mail.com",
+  "phone": "0987654321",
+  "birthday": "1993-12-01",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "67/45",
+  "major": "Anthropology",
+  "admissionYear": "2021"
+},
+{
+  "id": 12,
+  "name": "Ethan Turner",
+  "email": "ethan@mail.com",
+  "phone": "1234567890",
+  "birthday": "1994-09-09",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "68/45",
+  "major": "Linguistics",
+  "admissionYear": "2023"
+},
+{
+  "id": 13,
+  "name": "Madison Lewis",
+  "email": "madison@mail.com",
+  "phone": "9876543210",
+  "birthday": "1995-11-14",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "66/45",
+  "major": "Drama",
+  "admissionYear": "2020"
+},
+{
+  "id": 14,
+  "name": "Mason Brown",
+  "email": "mason@mail.com",
+  "phone": "0123456789",
+  "birthday": "1996-06-28",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "65/45",
+  "major": "Music",
+  "admissionYear": "2022"
+},
+{
+  "id": 15,
+  "name": "Aria White",
+  "email": "aria2@mail.com",
+  "phone": "0987654321",
+  "birthday": "1992-01-22",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "67/45",
+  "major": "Journalism",
+  "admissionYear": "2021"
+},
+{
+  "id": 16,
+  "name": "Elijah Clark",
+  "email": "elijah2@mail.com",
+  "phone": "1234567890",
+  "birthday": "1991-05-05",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "68/45",
+  "major": "Public Health",
+  "admissionYear": "2023"
+},
+{
+  "id": 17,
+  "name": "Sofia Davis",
+  "email": "sofia@mail.com",
+  "phone": "9876543210",
+  "birthday": "1988-07-15",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "66/45",
+  "major": "Nutrition",
+  "admissionYear": "2020"
+},
+{
+  "id": 18,
+  "name": "Noah Taylor",
+  "email": "noah2@mail.com",
+  "phone": "0123456789",
+  "birthday": "1993-03-03",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "65/45",
+  "major": "Film Studies",
+  "admissionYear": "2022"
+},
+{
+  "id": 19,
+  "name": "Olivia Martin",
+  "email": "olivia2@mail.com",
+  "phone": "0987654321",
+  "birthday": "1990-04-20",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "67/45",
+  "major": "Theater Arts",
+  "admissionYear": "2021"
+},
+{
+  "id": 20,
+  "name": "William Parker",
+  "email": "william2@mail.com",
+  "phone": "1234567890",
+  "birthday": "1996-12-09",
+  "photo": "https://source.unsplash.com/random/200x200/?portrait",
+  "section": "68/45",
+  "major": "Fashion Design",
+  "admissionYear": "2023"
+}
+    ]
+}
