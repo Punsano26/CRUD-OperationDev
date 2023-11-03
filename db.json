@@ -10,6 +10,17 @@
       "major": "Software Engineer",
       "admissionYear": "2008",
       "id": 1
+    },
+    {
+      "name": "Yho soke",
+      "email": "soke@gmail.com",
+      "phone": "0456987653",
+      "birthday": "2023-11-29",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "11/65",
+      "major": "Camera",
+      "admissionYear": "2009",
+      "id": 2
     }
   ]
 }

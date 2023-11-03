@@ -14,14 +14,14 @@ const EditStudent = () => {
     });
     const navigate = useNavigate();
     useEffect(()=>{
-      fetch("http://localhost:9999/student/"+id)
-      .then((res)=>res.json())
-      .then((data)=>{
-        setStudent(data)
-      })
-      .catch((err)=>{
-        console.log(err);
-      })
+      fetch("http://localhost:8000/student/" + id)
+        .then((res) => res.json())
+        .then((data) => {
+          setStudent(data);
+        })
+        .catch((err) => {
+          console.log(err);
+        });
     },[id]);
   const handleChange = (e) =>{
     setStudent({...student, [e.target.name]: e.target.value});
@@ -39,18 +39,18 @@ const EditStudent = () => {
       major: student.major,
       admissionYear: student.admissionYear,
     };
-    fetch("http://localhost:9999/student/"+id,{
-    method:"PUT",
-    headers:{"content-type": "application/json"},
-    body:JSON.stringify(studentData)
-  }).then(
-    (res) =>{
-      alert("save sucessfully")
-      navigate("/")
-    }
-  ).catch((err)=>{
-    console.log(err);
-  });
+    fetch("http://localhost:8000/student/" + id, {
+      method: "PUT",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify(studentData),
+    })
+      .then((res) => {
+        alert("save sucessfully");
+        navigate("/");
+      })
+      .catch((err) => {
+        console.log(err);
+      });
   };
   return ( <div>
       <div className="row">

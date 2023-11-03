@@ -4,7 +4,7 @@ const StudentList = () => {
   const [stdData, setStdData] = useState(null);
   const navigate = useNavigate();
   useEffect(() => {
-    fetch("http://localhost:9999/student")
+    fetch("http://localhost:8000/student")
       .then(
         // convert เป็น jason
         (res) => {
@@ -28,7 +28,7 @@ const StudentList = () => {
   };
   const removeStudent = (id) => {
     if (window.confirm("Do you want to remove?")) {
-      fetch("http://localhost:9999/student/" + id, {
+      fetch("http://localhost:8000/student/" + id, {
         method: "DELETE",
       })
         .then((res) => {

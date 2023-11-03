@@ -29,7 +29,7 @@ const AddSudent = () => {
       major: student.major,
       admissionYear: student.admissionYear,
     };
-    fetch("http://localhost:9999/student",{
+    fetch("http://localhost:8000/student",{
     method:"POST",
     headers:{"content-type": "application/json"},
     body:JSON.stringify(studentData)
