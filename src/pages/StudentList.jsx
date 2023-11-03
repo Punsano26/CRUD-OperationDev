@@ -27,7 +27,18 @@ const StudentList = () => {
     navigate("/student/detail/" + id);
   };
   const removeStudent = (id) => {
-    alert("delete" + id);
+    if (window.confirm("Do you want to remove?")) {
+      fetch("http://localhost:9999/student/" + id, {
+        method: "DELETE",
+      })
+        .then((res) => {
+          alert("remove successfully");
+          window.location.reload();
+        })
+        .catch((err) => {
+          console.log(err);
+        });
+    }
   };
   return (
     <div className="container">
