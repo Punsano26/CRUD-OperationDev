@@ -21,6 +21,226 @@
       "major": "Camera",
       "admissionYear": "2009",
       "id": 2
+    },
+    {
+      "name": "John Doe",
+      "email": "john.doe@gmail.com",
+      "phone": "0123456789",
+      "birthday": "2000-05-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "23/45",
+      "major": "Computer Science",
+      "admissionYear": "2017",
+      "id": 3
+    },
+    {
+      "name": "Alice Smith",
+      "email": "alice.smith@gmail.com",
+      "phone": "0987654321",
+      "birthday": "2001-08-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "12/34",
+      "major": "Electrical Engineering",
+      "admissionYear": "2018",
+      "id": 4
+    },
+    {
+      "name": "Ella Johnson",
+      "email": "ella.johnson@gmail.com",
+      "phone": "0765432109",
+      "birthday": "2002-02-10",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "19/76",
+      "major": "Mechanical Engineering",
+      "admissionYear": "2019",
+      "id": 5
+    },
+    {
+      "name": "David Williams",
+      "email": "david.williams@gmail.com",
+      "phone": "0345678901",
+      "birthday": "2003-11-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "34/21",
+      "major": "Biology",
+      "admissionYear": "2020",
+      "id": 6
+    },
+    {
+      "name": "Emma Brown",
+      "email": "emma.brown@gmail.com",
+      "phone": "0789012345",
+      "birthday": "2004-04-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "45/67",
+      "major": "Mathematics",
+      "admissionYear": "2021",
+      "id": 7
+    },
+    {
+      "name": "Michael Jones",
+      "email": "michael.jones@gmail.com",
+      "phone": "0234567890",
+      "birthday": "2005-09-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "61/12",
+      "major": "Physics",
+      "admissionYear": "2022",
+      "id": 8
+    },
+    {
+      "name": "Olivia Miller",
+      "email": "olivia.miller@gmail.com",
+      "phone": "0678901234",
+      "birthday": "2006-01-30",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "30/56",
+      "major": "Chemistry",
+      "admissionYear": "2023",
+      "id": 9
+    },
+    {
+      "name": "William Davis",
+      "email": "william.davis@gmail.com",
+      "phone": "0890123456",
+      "birthday": "2007-06-10",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "15/78",
+      "major": "Business Administration",
+      "admissionYear": "2014",
+      "id": 10
+    },
+    {
+      "name": "Sophia Wilson",
+      "email": "sophia.wilson@gmail.com",
+      "phone": "0456789012",
+      "birthday": "2008-12-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "56/23",
+      "major": "Psychology",
+      "admissionYear": "2015",
+      "id": 11
+    },
+    {
+      "name": "James Anderson",
+      "email": "james.anderson@gmail.com",
+      "phone": "0123456789",
+      "birthday": "2009-04-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "42/89",
+      "major": "History",
+      "admissionYear": "2016",
+      "id": 12
+    },
+    {
+      "name": "Isabella Martinez",
+      "email": "isabella.martinez@gmail.com",
+      "phone": "0987654321",
+      "birthday": "2010-08-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "19/45",
+      "major": "Economics",
+      "admissionYear": "2010",
+      "id": 13
+    },
+    {
+      "name": "Daniel Lopez",
+      "email": "daniel.lopez@gmail.com",
+      "phone": "0765432109",
+      "birthday": "2011-11-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "64/76",
+      "major": "Sociology",
+      "admissionYear": "2011",
+      "id": 14
+    },
+    {
+      "name": "Mia Hill",
+      "email": "mia.hill@gmail.com",
+      "phone": "0345678901",
+      "birthday": "2012-02-28",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "28/21",
+      "major": "Political Science",
+      "admissionYear": "2012",
+      "id": 15
+    },
+    {
+      "name": "Aiden Clark",
+      "email": "aiden.clark@gmail.com",
+      "phone": "0789012345",
+      "birthday": "2013-07-10",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "51/12",
+      "major": "English",
+      "admissionYear": "2013",
+      "id": 16
+    },
+    {
+      "name": "Emily Lewis",
+      "email": "emily.lewis@gmail.com",
+      "phone": "0234567890",
+      "birthday": "2014-12-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "36/56",
+      "major": "Art",
+      "admissionYear": "2014",
+      "id": 17
+    },
+    {
+      "name": "Matthew Turner",
+      "email": "matthew.turner@gmail.com",
+      "phone": "0678901234",
+      "birthday": "2015-03-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "73/78",
+      "major": "Music",
+      "admissionYear": "2015",
+      "id": 18
+    },
+    {
+      "name": "Sofia Perez",
+      "email": "sofia.perez@gmail.com",
+      "phone": "0890123456",
+      "birthday": "2016-06-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "14/23",
+      "major": "Nursing",
+      "admissionYear": "2016",
+      "id": 19
+    },
+    {
+      "name": "Christopher Hall",
+      "email": "christopher.hall@gmail.com",
+      "phone": "0456789012",
+      "birthday": "2017-10-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "29/89",
+      "major": "Medicine",
+      "admissionYear": "2017",
+      "id": 20
+    },
+    {
+      "name": "Sophie Turner",
+      "email": "sophie.turner@gmail.com",
+      "phone": "0789012345",
+      "birthday": "2018-02-10",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "18/76",
+      "major": "Chemical Engineering",
+      "admissionYear": "2018",
+      "id": 21
+    },
+    {
+      "name": "Noah Davis",
+      "email": "noah.davis@gmail.com",
+      "phone": "0345678901",
+      "birthday": "2019-11-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "57/21",
+      "major": "Environmental Science",
+      "admissionYear": "2019",
+      "id": 22
     }
   ]
 }
